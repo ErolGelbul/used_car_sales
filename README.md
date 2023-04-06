@@ -109,7 +109,7 @@ the time zone (e.g., Tue Dec 16 2014 12:30:00 GMT-0800 (PST)).
 ### 2.3 Car Condition - Make Year
 
 <p align="center">
-  <img src="images/data1.png">
+  <img width=500 src="images/data1.png">
 </p>
 
 - SUVs are generally kept in a prestine condition whether they are new or old.
@@ -119,7 +119,7 @@ the worst amongst the other groups.
 ### 2.4 Selling Price - Make Year
 
 <p align="center">
-  <img src="images/data2.jpg">
+  <img width=500 src="images/data2.jpg">
 </p>
 
 The value of the car seemingly increases as it hits the 10th year mark.
@@ -127,7 +127,7 @@ The value of the car seemingly increases as it hits the 10th year mark.
 ### 2.5 Selling Price - Wholesale Value
 
 <p align="center">
-  <img src="images/data3.jpg">
+  <img width=500 src="images/data3.jpg">
 </p>
 
 A linear graph on every type of car.
@@ -135,7 +135,7 @@ A linear graph on every type of car.
 ### 2.6 Heat Map
 
 <p align="center">
-  <img src="images/data4.png">
+  <img width=500 src="images/data4.png">
 </p>
 
 - mmr: almost has a perfect correlation with 0.98
